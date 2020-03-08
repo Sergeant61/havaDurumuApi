@@ -9,7 +9,7 @@ import { HavaDurumu } from "./HavaDurumuClass";
 import { HavaGun } from "./HavaGunClass";
 import { HavaOlaylari } from "./HavaOlaylari";
 
-let port = 8081; // default port to listen
+let port = 3000; // default port to listen
 
 let app = express();
 //const urlEncodedParser = bodyParser.urlencoded({ extended: true });
